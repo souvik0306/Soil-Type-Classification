@@ -1,2 +1,6 @@
-*.jpg
 *.zip
+augment/*
+images_resized1/*
+images_resized/*
+train/*
+test/*
