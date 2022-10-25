@@ -16,7 +16,7 @@ The dataset consists of 5 varieties of soil images in 5 directories or folders. 
 
 | Cinder Soil   | Laterite Soil        |
 | :-----------: | :-----------: |
-|  <image src="https://github.com/souvik0306/Soil-Type-Classification/blob/main/Soil%20types/Cinder%20Soil/Cinder_Soil_%20(14).jpg" width="450" height="350"> |    <image src="https://github.com/souvik0306/Soil-Type-Classification/blob/main/Soil%20types/Laterite%20Soil/Laterite_Soil_%20(14).jpg" width="450" height="350">    |
+|  <image src="https://github.com/souvik0306/Soil-Type-Classification/blob/main/Soil%20types/Cinder%20Soil/Cinder_Soil_%20(14).jpg" width="450" height="350"> |    <image src="https://github.com/souvik0306/Soil-Type-Classification/blob/main/Soil%20types/Laterite%20Soil/Laterite_Soil_%20(12).jpg" width="450" height="350">    |
 
 | Peat Soil   | Training vs Val Accuracy    |
 | :-----------: | :-----------: |
